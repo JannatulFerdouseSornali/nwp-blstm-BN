@@ -32,7 +32,7 @@ CUDA 11.0+ (for GPU support)
 1TB disk space (for large datasets)
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/bengali-nlp.git
+git clone (https://github.com/JannatulFerdouseSornali/nwp-blstm-BN/tree/main)
 cd bengali-nlp
 Step 2: Create Virtual Environment
 bashpython -m venv venv
@@ -40,9 +40,8 @@ source venv/bin/activate
 Step 3: Install Dependencies
 bashpip install -r requirements.txt
 Step 4: Download Pre-trained Models (Optional)
-bash# Download from releases or model zoo
-wget https://github.com/yourusername/bengali-nlp/releases/download/v1.0/models.zip
-unzip models.zip -d models/
+[bash# Download from releases or model zoo
+wget ](https://github.com/JannatulFerdouseSornali/nwp-blstm-BN/blob/main/Final%20compiled-Sornali.xlsx)
 
 💻 Usage
 1. Running the Jupyter Notebook
